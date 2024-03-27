@@ -1,5 +1,7 @@
 # About Me:
-I’m currently working on an effective lap simulator for the UF Formula SAE Team using ML to create a transient tyre model using the HiPerGator.<br>I’m looking to collaborate on ML/AI projects.<br>From Poland
+I’m currently working on an effective lap simulator for the UF Formula SAE Team using ML to create a transient tyre model using the HiPerGator
+I’m looking to collaborate on ML/AI projects
+From Poland 🇵🇱
 
 
 ## Socials:
